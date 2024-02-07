@@ -1,10 +1,10 @@
 module.exports = {
-  TOKEN: "MTIwNDYwNjc3OTcyODU5Mjk4Ng.GSQmQj.5v2WfSsZTkv1wlsgsQQQ9wFYeUdCsbiw8CIXkI",
+  TOKEN: "",
   ownerID: ["701601673076015105", ""],
   botInvite: "",
   supportServer: "",
   mongodbURL: "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
-  status: 'RTXX GG',
+  status: 'Join <3',
   commandsDir: './commands',
   language: "en",
   embedColor: "00fbff",
