@@ -21,8 +21,8 @@ module.exports = {
 
   run: async (client, interaction) => {
     try {
-      const youtubeLink = 'https://discord.gg/FUEHs7RCqz';
-      const InstagramLink = 'https://www.roblox.com/groups/15316351/Brotherhood-Development#!/about';
+      const RobloxLink = 'https://www.roblox.com/users/1334988531/profile';
+      const CrypticLink = 'https://discord.gg/8jP8bD79th';
       const { EmbedBuilder } = require('discord.js')
         const embed = new EmbedBuilder()
             .setColor('#da2a41')
